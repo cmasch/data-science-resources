@@ -43,6 +43,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Denny Britz (Blog)](http://www.wildml.com/)
 * [Facebook Research](https://research.fb.com/blog/)
 * [fast.ai](http://www.fast.ai/)
+* [Google AI Blog](https://ai.googleblog.com/)
 * [Harvard NLP](http://nlp.seas.harvard.edu/)
 * [Hortonworks - Blog](https://hortonworks.com/blog/)
 * [Kaggle Blog](http://blog.kaggle.com/)
