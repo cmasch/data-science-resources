@@ -36,7 +36,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066)
 
 ## Websites
-* [Analytics Vidhya](https://www.analyticsvidhya.com/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com/blog)
 * [Cloudera - Blog](https://blog.cloudera.com/)
 * [Dat Tran (Medium)](https://medium.com/@datitran)
 * [Denny Britz (Medium)](https://medium.com/@dennybritz)
