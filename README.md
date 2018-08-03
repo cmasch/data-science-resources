@@ -7,6 +7,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 
 ## Books
 * [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/) (by Stuart Russell & Peter Norvig)
+* [Big Data:Principles and best practices of scalable realtime data systems]( https://www.amazon.de/Big-Data-Principles-practices-scalable/dp/1617290343) (by Nathan Marz & James Warren)
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) (by Ian Goodfellow, Yoshua Bengio & Aaron Courville)
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (by Francois Chollet)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) (by Aurélien Géron)
