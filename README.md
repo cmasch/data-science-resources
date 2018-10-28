@@ -21,8 +21,10 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 ## Papers
 * [arXiv - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) - Overview of recent papers
 * [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) - Overview of recent papers
+* [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619) - [Google Research Blog](https://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
+* [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/abs/1806.10282)
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/abs/1801.00631)
@@ -33,6 +35,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+* [Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934)
 * [On the importance of single directions for generalization](https://arxiv.org/abs/1803.06959)
 * [SqueezeNet](https://arxiv.org/abs/1602.07360)
 * [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066)
