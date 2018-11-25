@@ -39,6 +39,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+* [Layer Normalization](https://arxiv.org/abs/1607.06450)
 * [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906)
 * [Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
