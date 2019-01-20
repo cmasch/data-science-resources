@@ -6,10 +6,12 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Websites](#websites)
 
 ## Books
+* [Architects of Intelligence](https://www.amazon.com/Architects-Intelligence-truth-people-building/dp/1789131510) (by Martin Ford)
 * [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/) (by Stuart Russell & Peter Norvig)
 * [Big Data:Principles and best practices of scalable realtime data systems]( https://www.amazon.de/Big-Data-Principles-practices-scalable/dp/1617290343) (by Nathan Marz & James Warren)
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) (by Ian Goodfellow, Yoshua Bengio & Aaron Courville)
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (by Francois Chollet)
+* [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240) (by Maxim Lapan)
 * [Full Catastrophe Living](https://www.amazon.com/dp/product/0345536932) (by Jon Kabat-Zinn)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/) (by Aurélien Géron)
 * [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328) (by Eric Schmidt & Jonathan Rosenberg)
