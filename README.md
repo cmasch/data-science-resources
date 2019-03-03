@@ -54,6 +54,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [On the importance of single directions for generalization](https://arxiv.org/abs/1803.06959)
 * [SqueezeNet](https://arxiv.org/abs/1602.07360)
 * [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340)
+* [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 * [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066)
 
 ## Websites
@@ -71,6 +72,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Keras Blog](https://blog.keras.io/)
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [OpenAI Blog](https://blog.openai.com/)
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [Research at Google](https://research.google.com/pubs/papers.html)
 * [Ritchie Ng](http://www.ritchieng.com/)
