@@ -26,6 +26,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) - Overview of recent papers
 * [NIPS](https://papers.nips.cc/) - Overview of recent NIPS papers
 
+
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619) - [Google Research Blog](https://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
