@@ -24,6 +24,8 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 ## Papers
 * [arXiv - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) - Overview of recent papers
 * [arXiv - Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) - Overview of recent papers
+* [NIPS](https://papers.nips.cc/) - Overview of recent NIPS papers
+
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619) - [Google Research Blog](https://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 * [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
@@ -44,6 +46,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Distributed Representations of Sentences and Documents](https://arxiv.org/abs/1405.4053)
 * [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism]( https://arxiv.org/abs/1811.06965)
