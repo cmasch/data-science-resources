@@ -20,6 +20,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/) (by Sebastian Raschka & Vahid Mirjalili)
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
 * [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) (by Chade-Meng Tan)
+* [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2) (by Cole Nussbaumer Knaflic)
 
 ## Papers
 Overview:
@@ -50,6 +51,7 @@ Paper:
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+* [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism]( https://arxiv.org/abs/1811.06965)
 * [Infrastructure for Usable Machine Learning: The Stanford DAWN Project](https://arxiv.org/abs/1705.07538)
