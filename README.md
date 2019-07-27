@@ -21,6 +21,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [R for Data Science](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/) (by Hadley Wickham & Garrett Grolemund)
 * [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932) (by Chade-Meng Tan)
 * [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2) (by Cole Nussbaumer Knaflic)
+* [The Creativity Code](https://www.amazon.com/Creativity-Code-learning-write-paint-ebook/dp/B07GLP28F3) (by Marcus Du Sautoy)
 
 ## Papers
 Overview:
