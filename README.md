@@ -4,6 +4,7 @@ Sometimes people ask me how to learn data analytics or which books / websites I 
 * [Books](#books)
 * [Papers](#papers)
 * [Websites](#websites)
+* [Tools](#tools)
 
 ## Books
 * [Architects of Intelligence](https://www.amazon.com/Architects-Intelligence-truth-people-building/dp/1789131510) (by Martin Ford)
@@ -87,4 +88,11 @@ Paper:
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [Research at Google](https://research.google.com/pubs/papers.html)
 * [Ritchie Ng](http://www.ritchieng.com/)
+* [TensorFlow Blog](https://medium.com/tensorflow)
 * [Towards Data Science](https://towardsdatascience.com/)
+
+## Tools
+* [NumPy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/)
+* [TensorFlow](https://www.tensorflow.org/)
