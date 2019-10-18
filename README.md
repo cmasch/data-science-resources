@@ -73,6 +73,7 @@ Paper:
 * [Dat Tran (Medium)](https://medium.com/@datitran)
 * [Denny Britz (Medium)](https://medium.com/@dennybritz)
 * [Denny Britz (Blog)](http://www.wildml.com/)
+* [Facebook AI Blog](https://ai.facebook.com/blog/)
 * [Facebook Research](https://research.fb.com/blog/)
 * [fast.ai](http://www.fast.ai/)
 * [Google AI Blog](https://ai.googleblog.com/)
