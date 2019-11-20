@@ -88,7 +88,7 @@ Paper:
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [Research at Google](https://research.google.com/pubs/papers.html)
 * [Ritchie Ng](http://www.ritchieng.com/)
-* [TensorFlow Blog](https://medium.com/tensorflow)
+* [TensorFlow Blog](https://blog.tensorflow.org/)
 * [Towards Data Science](https://towardsdatascience.com/)
 
 ## Tools
@@ -96,3 +96,4 @@ Paper:
 * [pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/)
 * [TensorFlow](https://www.tensorflow.org/)
+* [transformers](https://huggingface.co/transformers/)
