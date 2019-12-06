@@ -88,12 +88,16 @@ Paper:
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [Research at Google](https://research.google.com/pubs/papers.html)
 * [Ritchie Ng](http://www.ritchieng.com/)
+* [Salesforce Research](https://blog.einstein.ai/)
 * [TensorFlow Blog](https://blog.tensorflow.org/)
 * [Towards Data Science](https://towardsdatascience.com/)
 
 ## Tools
 * [NumPy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
+* [plotly](https://plot.ly/)
+* [rasa](https://rasa.com/)
 * [scikit-learn](https://scikit-learn.org/)
+* [Streamlit](https://streamlit.io/)
 * [TensorFlow](https://www.tensorflow.org/)
 * [transformers](https://huggingface.co/transformers/)
