@@ -53,6 +53,7 @@ Paper:
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+* [fastMRI: An Open Dataset and Benchmarks for Accelerated MRI](https://arxiv.org/abs/1811.08839)
 * [GLoMo: Unsupervised Learning of Transferable Relational Graphs](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism]( https://arxiv.org/abs/1811.06965)
