@@ -39,6 +39,7 @@ Paper:
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Auto-Keras: Efficient Neural Architecture Search with Network Morphism](https://arxiv.org/abs/1806.10282)
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+* [Benchmarking machine learning models on eICU critical care dataset](https://arxiv.org/abs/1910.00964)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
 * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)
@@ -59,6 +60,7 @@ Paper:
 * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism]( https://arxiv.org/abs/1811.06965)
 * [Infrastructure for Usable Machine Learning: The Stanford DAWN Project](https://arxiv.org/abs/1705.07538)
 * [Layer Normalization](https://arxiv.org/abs/1607.06450)
+* [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677)
 * [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906)
 * [Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934)
 * [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
@@ -72,7 +74,6 @@ Paper:
 ## Websites
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog)
 * [Cloudera - Blog](https://blog.cloudera.com/)
-* [Dat Tran (Medium)](https://medium.com/@datitran)
 * [Denny Britz (Medium)](https://medium.com/@dennybritz)
 * [Denny Britz (Blog)](http://www.wildml.com/)
 * [Facebook AI Blog](https://ai.facebook.com/blog/)
@@ -94,9 +95,10 @@ Paper:
 * [Towards Data Science](https://towardsdatascience.com/)
 
 ## Tools
+* [FastAPI](https://fastapi.tiangolo.com/)
 * [NumPy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
-* [plotly](https://plot.ly/)
+* [plotly](https://dash.plot.ly/)
 * [rasa](https://rasa.com/)
 * [scikit-learn](https://scikit-learn.org/)
 * [Streamlit](https://streamlit.io/)
